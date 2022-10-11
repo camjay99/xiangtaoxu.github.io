@@ -2,7 +2,7 @@
 name: Cameron Coles
 image: /images/cameron-coles.jpg
 description: 
-role: student
+role: phd
 aliases:
   - Cameron Coles
   - C. Coles
