@@ -8,12 +8,8 @@ aliases:
   - C. Coles
   - C Coles
 links:
-  home-page: 
   email: cjc623@cornell.edu
-  github: 
-  twitter: 
-  orcid: 
-  Google Scholar: 
+  github: https://github.com/camjay99
 ---
 
 I like science.
