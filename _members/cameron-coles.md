@@ -12,5 +12,5 @@ links:
   github: https://github.com/camjay99
 ---
 
-I like science.
+I am interesting in the application of remote sensing and ecological modeling to conservation. I am currently working on a method to distinguish defoliation from other disturbances (e.g., logging) using remote sensing data.
 
