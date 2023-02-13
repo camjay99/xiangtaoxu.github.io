@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-{% include section.html dark=true%}
+{% include section.html %}
 
 {%
   include list.html
@@ -40,9 +40,9 @@ nav:
   filters="role: undergrad"
 %}
 
-# <i class="fas fa-users"></i>Alumni
-
 {% include section.html %}
+
+# <i class="fas fa-users"></i>Alumni
 
 {%
   include list.html
