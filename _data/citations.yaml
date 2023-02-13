@@ -1,5 +1,151 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1126/sciadv.add5667
+  title: Leaf economics fundamentals explained by optimality principles
+  authors:
+  - Han Wang
+  - I. Colin Prentice
+  - Ian J. Wright
+  - David I. Warton
+  - Shengchao Qiao
+  - Xiangtao Xu
+  - Jian Zhou
+  - Kihachiro Kikuzawa
+  - Nils Chr. Stenseth
+  publisher: Science Advances
+  date: 1900-1-1
+  link: https://doi.org/grnvjx
+  members:
+  - Xiangtao Xu
+- id: doi:10.1111/gcb.16046
+  title: "Reduced ecosystem resilience quantifies fine\u2010scale heterogeneity in\
+    \ tropical forest mortality responses to drought"
+  authors:
+  - Donghai Wu
+  - German Vargas G.
+  - Jennifer S. Powers
+  - Nate G. McDowell
+  - Justin M. Becknell
+  - "Daniel P\xE9rez\u2010Aviles"
+  - David Medvigy
+  - Yanlan Liu
+  - Gabriel G. Katul
+  - "Julio C\xE9sar Calvo\u2010Alvarado"
+  - "Ana Calvo\u2010Obando"
+  - "Arturo Sanchez\u2010Azofeifa"
+  - Xiangtao Xu
+  publisher: Global Change Biology
+  date: 1900-1-1
+  link: https://doi.org/gntmbv
+  members:
+  - Xiangtao Xu
+  - Donghai Wu
+  tags:
+  - Remote sensing
+  - Ecosystem resilience
+  - Forest mortality
+- id: doi:10.1371/journal.pbio.3001322
+  title: "Natural experiments and long-term monitoring are critical to understand\
+    \ and predict marine host\u2013microbe ecology and evolution"
+  authors:
+  - Matthieu Leray
+  - Laetitia G. E. Wilkins
+  - Amy Apprill
+  - Holly M. Bik
+  - Friederike Clever
+  - Sean R. Connolly
+  - "Marina E. De Le\xF3n"
+  - J. Emmett Duffy
+  - "Le\xEFla Ezzat"
+  - Sarah Gignoux-Wolfsohn
+  - Edward Allen Herre
+  - Jonathan Z. Kaye
+  - David I. Kline
+  - Jordan G. Kueneman
+  - Melissa K. McCormick
+  - W. Owen McMillan
+  - "Aaron O\u2019Dea"
+  - Tiago J. Pereira
+  - Jillian M. Petersen
+  - Daniel F. Petticord
+  - Mark E. Torchin
+  - Rebecca Vega Thurber
+  - Elin Videvall
+  - William T. Wcislo
+  - Benedict Yuen
+  - Jonathan A. Eisen
+  publisher: PLOS Biology
+  date: '2021-08-19'
+  link: https://doi.org/grr53x
+  members:
+  - Daniel F. Petticord
+  tags:
+  - Marine ecology
+- id: doi:10.1111/gcb.15872
+  title: Detecting forest response to droughts with global observations of vegetation
+    water content
+  authors:
+  - Alexandra G. Konings
+  - Sassan S. Saatchi
+  - Christian Frankenberg
+  - Michael Keller
+  - Victor Leshyk
+  - William R. L. Anderegg
+  - Vincent Humphrey
+  - Ashley M. Matheny
+  - Anna Trugman
+  - Lawren Sack
+  - Elizabeth Agee
+  - Mallory L. Barnes
+  - Oliver Binks
+  - "Kerry Cawse\u2010Nicholson"
+  - Bradley O. Christoffersen
+  - Dara Entekhabi
+  - Pierre Gentine
+  - Nataniel M. Holtzman
+  - Gabriel G. Katul
+  - Yanlan Liu
+  - Marcos Longo
+  - "Jordi Martinez\u2010Vilalta"
+  - Nate McDowell
+  - Patrick Meir
+  - Maurizio Mencuccini
+  - Assaad Mrad
+  - Kimberly A. Novick
+  - Rafael S. Oliveira
+  - Paul Siqueira
+  - "Susan C. Steele\u2010Dunne"
+  - David R. Thompson
+  - Yujie Wang
+  - Richard Wehr
+  - Jeffrey D. Wood
+  - Xiangtao Xu
+  - Pieter A. Zuidema
+  publisher: Global Change Biology
+  date: '2021-09-03'
+  link: https://doi.org/gmsfnx
+  members:
+  - Xiangtao Xu
+  tags:
+  - Tree mortality
+  - Remote sensing
+- id: doi:10.1111/ele.13879
+  title: Plant input does not exert stronger control on topsoil carbon persistence
+    than climate in alpine grasslands
+  authors:
+  - Donghai Wu
+  - Xiangtao Xu
+  - Haicheng Zhang
+  publisher: Ecology Letters
+  date: '2021-09-12'
+  link: https://doi.org/grr53z
+  members:
+  - Xiangtao Xu
+  - Donghai Wu
+  tags:
+  - Radiocarbon
+  - Tibetan Plateau
+  - Soil carbon turnover
 - id: doi:10.1029/2020JG005976
   title: "Recovery: Fast and Slow\u2014Vegetation Response During the 2012\u20132016\
     \ California Drought"
@@ -15,7 +161,7 @@
   members:
   - Xiangtao Xu
   tags:
-  - Remote Sensing
+  - Remote sensing
   - Tree mortality
 - id: doi:10.1111/nph.17254
   title: Leaf surface water, not plant water stress, drives diurnal variation in tropical
