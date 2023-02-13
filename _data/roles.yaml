@@ -21,3 +21,7 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+  
+visit:
+  icon: fas fa-graduation-cap
+  text: Visiting PhD Student
