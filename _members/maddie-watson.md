@@ -2,7 +2,7 @@
 name: Maddie Watson
 image: images/maddiewatson.jpg
 description: Summer Research Intern
-role: undergrad
+role: alumni
 aliases:
   - Maddie Watson
   - M. Watson

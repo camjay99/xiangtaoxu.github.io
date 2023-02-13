@@ -39,5 +39,18 @@ nav:
   component="portrait"
   filters="role: undergrad"
 %}
+
+# <i class="fas fa-users"></i>Alumni
+
+{% include section.html %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumni" 
+%}
+
 {:.center}
+
 
