@@ -40,7 +40,7 @@ nav:
   filters="role: undergrad"
 %}
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>Alumni
 
 {% include section.html %}
 
@@ -48,7 +48,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="role: alumni" 
 %}
 
 {:.center}
