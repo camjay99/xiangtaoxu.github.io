@@ -1,9 +1,49 @@
+- id: doi:10.1126/sciadv.add5667
+  date: 2023-01-18
+  members:
+    - Xiangtao Xu
+
+- id: doi:10.1111/gcb.16046
+  date: 2022-03-01
+  members:
+    - Xiangtao Xu
+    - Donghai Wu
+  tags:
+    - Remote sensing
+    - Ecosystem resilience
+    - Forest mortality
+
+- id: doi:10.1371/journal.pbio.3001322
+  date: 2021-8-19
+  members:
+    - Daniel F. Petticord
+  tags:
+    - Marine ecology
+
+- id: doi:10.1111/gcb.15872
+  date: 2021-9-3
+  members:
+    - Xiangtao Xu
+  tags:
+    - Tree mortality
+    - Remote sensing
+
+- id: doi:10.1111/ele.13879
+  date: 2021-9-12
+  members:
+    - Xiangtao Xu
+    - Donghai Wu
+  tags:
+    - Radiocarbon
+    - Tibetan Plateau
+    - Soil carbon turnover
+
 - id: doi:10.1029/2020JG005976
   date: 2021-4-1
   members:
     - Xiangtao Xu
   tags:
-    - Remote Sensing
+    - Remote sensing
     - Tree mortality
 
 - id: doi:10.1111/nph.17254
