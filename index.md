@@ -3,12 +3,11 @@ title: Home
 ---
 
 {% capture col1 %}
-## <span style="color:red">G</span>lobal <span style="color:red">E</span>cology and <span style="color:red">M</span>odeling
+## <span style="color:red">Bio</span>sphere <span style="color:red">M</span>odeling and <span style="color:red">M</span>onitoring
 
 ---
 
-Welcome to the GEM lab in the [Department of Ecology and Evolutionary Biology at Cornell](https://ecologyandevolution.cornell.edu/)! We investigate ecological dynamics in terrestrial ecosystems under rapid global environmental change. We use various quantitative and computational tools such as terrestrial biosphere modeling and environmental remote sensing.
-
+Welcome to the BioM2 lab in the [Department of Ecology and Evolutionary Biology at Cornell](https://ecologyandevolution.cornell.edu/)! We aim to advance mechanistic and predictive understanding of terrestrial biosphere through multi-scale modeling and model-guided observations and experiments.
 {:.center}
 
 {%
