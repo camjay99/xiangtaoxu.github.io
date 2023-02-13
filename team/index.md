@@ -44,6 +44,8 @@ nav:
 
 # <i class="fas fa-users"></i>Alumni
 
+{% include section.html %}
+
 {%
   include list.html
   data="members"
