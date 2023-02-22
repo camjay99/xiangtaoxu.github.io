@@ -1,15 +1,13 @@
 ---
 name: Coral del Mar Valle-Rodríguez
-
 image: /images/coralvallerodriguez.jpg
 description: Plant resiliency and disturbance
 role: technician
-aliases: [Include all the potential ways to spell your name esp. in your publications]
+aliases: 
   - Coral Valle
   - Coral VR
   - CVR
-links: [only keep those you want to post]
-  home-page:
+links: 
   email: cv273@cornell.edu
   twitter: @CoraldelMarVR
 ---
