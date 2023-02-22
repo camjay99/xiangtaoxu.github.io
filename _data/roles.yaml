@@ -25,3 +25,7 @@ mascot:
 visit:
   icon: fas fa-graduation-cap
   text: Visiting PhD Student
+
+technician:
+  icon: fas fa-tree-deciduous
+  text: Field Technician
