@@ -1,7 +1,7 @@
 ---
 name: Cameron Coles
 image: /images/cameron-coles.jpg
-description: 
+description: Herbivory and Remote Sensing
 role: phd
 aliases:
   - Cameron Coles
