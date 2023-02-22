@@ -27,5 +27,5 @@ visit:
   text: Visiting PhD Student
 
 technician:
-  icon: fas fa-tree-deciduous
+  icon: fa-solid fa-tree-deciduous
   text: Field Technician
