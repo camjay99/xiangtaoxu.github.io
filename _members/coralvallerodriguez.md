@@ -1,7 +1,7 @@
 ---
 name: Coral del Mar Valle-Rodríguez
 
-image: coralvallerodriguez.jpg
+image: /images/coralvallerodriguez.jpg
 description: Plant resiliency and disturbance
 role: technician
 aliases: [Include all the potential ways to spell your name esp. in your publications]
