@@ -28,7 +28,7 @@ Welcome to the BioM2 lab in the [Department of Ecology and Evolutionary Biology 
     image5="images/slides/backpack_lidar.jpg"
     caption5="Graduate student Yixin Ma practice backpack lidar scanning"
 
-    image6="images/slides/TLS_photo_compare.jpg"
+    image6="images/slides/tripod_lidar.jpg"
     caption6="Graduate student Yixin Ma introduce BLK360 tripod lidar during a forestry workshop at the Anort Forest"
 
     image7="images/slides/image10.jpg"
