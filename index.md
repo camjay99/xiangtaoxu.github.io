@@ -13,35 +13,26 @@ Welcome to the BioM2 lab in the [Department of Ecology and Evolutionary Biology 
 {%
     include slideshow.html
 
-    image1="images/slides/CR_Horizontes.jpg"
-    caption1="Horizontes Ecological Station in Northwest Costa Rica during the transition from dry season to wet season"
+    image1="images/slides/El_Yunque_Group.jpg"
+    caption1="2023 Field trip to El Verde research station in Luquillo Puerto Rico (including Xiangtao Xu, Cameron Coles, and Yixin Ma)"
 
-    image2="images/slides/CR_Iguana.jpg"
-    caption2="Iguana in Costa Rican Dry forests"
+    image2="images/slides/Luquillo_forest.jpg"
+    caption2="Forest canopy in Luquillo featuring palms and Cecropia trees"
 
-    image3="images/slides/TLS_Corson.jpg"
-    caption3="Scanning a spiny tropical palm Pachypodium geayi in Corson Hall, Cornell with BLK360 by Maddie Watson and Donghai Wu"
+    image3="images/slides/Roof_prototype.jpg"
+    caption3="Roof prototype for throughfall exclusion experiment to study forest drought responses in Luquillo"
     
-    image4="images/slides/Pachypodium_geayi_TLS.png"
-    caption4="Point cloud of Pachypodium_geayi from terrestiral laser scanning, colored with retrieval intensity"
+    image4="images/slides/TRACE_ring.jpg"
+    caption4="A ringt structure to support a forest understory warming experiment in Luquillo"
 
-    image5="images/slides/TLS_sugar_maple.jpg"
-    caption5="Scanning sugar maple tree in the Arnot with BLK360 Terrestrial lidar"
+    image5="images/slides/backpack_lidar.jpg"
+    caption5="Graduate student Yixin Ma practice backpack lidar scanning"
 
     image6="images/slides/TLS_photo_compare.jpg"
-    caption6="Point clound from TLS compared with photo for a sugar maple"
+    caption6="Graduate student Yixin Ma introduce BLK360 tripod lidar during a forestry workshop at the Anort Forest"
 
-    image7="images/slides/slashwall.jpg"
-    caption7="Slashwall in the Arnot built from harvest residuals to prevent deer browsing"
-
-    image8="images/slides/image8.jpg"
-    caption8="Seedling in Pasoh Forest Reserve, Malaysia. Credit: Yixin Ma"
-
-    image9="images/slides/image9.jpg"
-    caption9="Understory light environment in a tropical rainforest, Malaysia. Credit: Yixin Ma"
-
-    image10="images/slides/image10.jpg"
-    caption10="View of a tropical rainforest canopy from the meteorological tower, Malaysia. Credit: Yixin Ma"
+    image7="images/slides/image10.jpg"
+    caption7="View of a tropical rainforest canopy from the meteorological tower at Pasoh, Malaysia. Credit: Yixin Ma"
 
 %}
 
