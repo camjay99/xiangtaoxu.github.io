@@ -1,14 +1,14 @@
 ---
 name: Cameron Coles
 image: /images/cameron-coles.jpg
-description: 
+description: Herbivory and Remote Sensing
 role: phd
 aliases:
   - Cameron Coles
   - C. Coles
   - C Coles
 links:
-  email: cjc623@cornell.edu
+  email: cjc378@cornell.edu
   github: https://github.com/camjay99
 ---
 
