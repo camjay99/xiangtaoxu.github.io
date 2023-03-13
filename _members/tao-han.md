@@ -1,3 +1,4 @@
+---
 name: Tao Han
 image: /images/tao-han.jpg
 description: Terrestrial laser scanning in forestry
@@ -9,3 +10,6 @@ aliases: [Include all the potential ways to spell your name esp. in your publica
 links: [only keep those you want to post]
   email: th596@cornell.edu
   orcid: 0000-0001-9164-284X
+---
+
+I am interested in using advanced computer version techniques and terrestrial laser scanning to understand different ecological processes.
