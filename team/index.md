@@ -46,8 +46,18 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: technician"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: undergrad"
 %}
+
+
+
+{% include section.html %}
 
 # <i class="fas fa-users"></i>Alumni
 
