@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-In the GEM lab, we are interested in the patterns and mechanisms of ecosystem dynamics under global environmental change. We study the ecophysiology of terrestrial plants and their role in the Earth system, using novel remote sensing tools and computational modeling.
+In the BioM2 lab, we are interested in the patterns and mechanisms of ecosystem dynamics under global environmental change. We study the ecophysiology of terrestrial plants and their role in the Earth system, using novel remote sensing tools and computational modeling.
 
 
 {% include section.html %}

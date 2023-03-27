@@ -40,11 +40,20 @@ Welcome to the BioM2 lab in the [Department of Ecology and Evolutionary Biology 
 
 {% capture col2 %}
 ## NEWS
-
+<!-- New papers, new awards, new lab member, media -->
 ---
 
-- [First TLS scan](https://twitter.com/XiangtaoX/status/1403016633380216834?s=20) with ***Artoo***, the BLK360 Terrestrial lidar! *- June 9 2021*
-- New study on tropical forest canopy water dynamics using microwave remote sensing and ED2 model is now [published on New Phytologist](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17254)! See also the nice [commentary](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17418) by Gerlein-Safdi on the same issue *- June 01 2021*
+- BioM2 lab partipated in the 1st East Regional Dynamic Global Vegetation Model Conference ([ER-DGVM-C](https://aimesproject.org/erdgvmc_2023/)). Lab member Xiaoting Li was awarded the best oral presentation on her work of alpine phenology! *- March 2023*
+
+- Donghai Wu starts his new position as a staff scientist at South China Botanical Garden, Chinese Academy of Science, Guangzhou, China. We will miss you Donghai! *- March 2023*
+
+- Graduate student Dan Petticord passed his A-exam! Congrats to PhD Candidate Dan! *- March 2023*
+
+- Tao Han joins the lab as a post-doctoral research fellow working on terrestrial lidar from University of Alberta. Welcome Tao! *- Feburary 2023*
+
+- Graduate student Cameron Coles got the best first-year presentation award in EEB December symposium for his work on spongy moth defoliation. He is also awarded the [Sustainable Biodiversity Fund](https://atkinson.cornell.edu/grants/students/sustainable-biodiversity-fund/) from Cornell Atkinson Center to further support his work! *- January 2023*
+
+- New study on explaining leaf economic spectrum with optimality theory [published on Science Advances](https://www.science.org/doi/full/10.1126/sciadv.add5667)! *- Janurary 2023*
 
 {% endcapture %}
 
