@@ -42,6 +42,9 @@ Welcome to the BioM2 lab in the [Department of Ecology and Evolutionary Biology 
 ## NEWS
 <!-- New papers, new awards, new lab member, media -->
 ---
+- Congratulations to [Cameron Coles](https://xiangtaoxu.eeb.cornell.edu/members/cameron-coles.html) for receiving the prestigious [Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) of DOE, which will cover him for 4 years!
+
+- Welcome Prof. [Pieter Zuidema](https://www.wur.nl/en/persons/pieter-prof.dr.-pa-pieter-zuidema.htm) from the Wageningen University to spend a month in our lab to collaborate on tree ring data and ecosystem modeling!
 
 - BioM2 lab partipated in the 1st East Regional Dynamic Global Vegetation Model Conference ([ER-DGVM-C](https://aimesproject.org/erdgvmc_2023/)). Lab member Xiaoting Li was awarded the best oral presentation on her work of alpine phenology! *- March 2023*
 
@@ -50,11 +53,11 @@ Welcome to the BioM2 lab in the [Department of Ecology and Evolutionary Biology 
 - Graduate student Dan Petticord passed his A-exam! Congrats to PhD Candidate Dan! *- March 2023*
 
 - Tao Han joins the lab as a post-doctoral research fellow working on terrestrial lidar from University of Alberta. Welcome Tao! *- Feburary 2023*
-
+<!--
 - Graduate student Cameron Coles got the best first-year presentation award in EEB December symposium for his work on spongy moth defoliation. He is also awarded the [Sustainable Biodiversity Fund](https://atkinson.cornell.edu/grants/students/sustainable-biodiversity-fund/) from Cornell Atkinson Center to further support his work! *- January 2023*
 
 - New study on explaining leaf economic spectrum with optimality theory [published on Science Advances](https://www.science.org/doi/full/10.1126/sciadv.add5667)! *- Janurary 2023*
-
+-->
 {% endcapture %}
 
 {% include two-col.html col1=col1 col2=col2%}

@@ -1,8 +1,8 @@
 ---
 name: Donghai Wu
 image: /images/donghai-wu.jpg
-description: 
-role: postdoc
+description: Currently Staff Scientist at South China Botanical Garden 
+role: alumni
 aliases:
   - Donghai Wu
   - D. Wu
