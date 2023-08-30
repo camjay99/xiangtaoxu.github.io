@@ -2,7 +2,7 @@
 name: Sabrina Chow
 image: /images/sabrina-chow.jpg
 description: Leaf lifespan, Ecology, Conservation
-role:undergrad]
+role: undergrad
 aliases: 
   - Sabrina Chow
   - S. Chow
