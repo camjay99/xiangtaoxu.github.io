@@ -2,7 +2,7 @@
 name: Coral del Mar Valle-Rodríguez
 image: /images/coralvallerodriguez.jpg
 description: Plant resiliency and disturbance in the tropics
-role: graduate
+role: phd
 aliases: 
  - Coral del Mar Valle Rodríguez
  - Coral del Mar Valle-Rodríguez
