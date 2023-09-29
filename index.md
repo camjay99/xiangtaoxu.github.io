@@ -13,26 +13,29 @@ Welcome to the BioM2 lab in the [Department of Ecology and Evolutionary Biology 
 {%
     include slideshow.html
 
-    image1="images/slides/El_Yunque_Group.jpg"
-    caption1="2023 Field trip to El Verde research station in Luquillo Puerto Rico (including Xiangtao Xu, Cameron Coles, and Yixin Ma)"
-
-    image2="images/slides/Luquillo_forest.jpg"
-    caption2="Forest canopy in Luquillo featuring palms and Cecropia trees"
-
-    image3="images/slides/Roof_prototype.jpg"
-    caption3="Roof prototype for throughfall exclusion experiment to study forest drought responses in Luquillo"
+    image1='images/slides/group_photo_2023F.jpeg"
+    caption1="Current lab group"
     
-    image4="images/slides/TRACE_ring.jpg"
-    caption4="A ringt structure to support a forest understory warming experiment in Luquillo"
+    image2="images/slides/El_Yunque_Group.jpg"
+    caption2="2023 Field trip to El Verde research station in Luquillo Puerto Rico (including Xiangtao Xu, Cameron Coles, and Yixin Ma)"
 
-    image5="images/slides/backpack_lidar.jpg"
-    caption5="Graduate student Yixin Ma practice backpack lidar scanning"
+    image3="images/slides/Luquillo_forest.jpg"
+    caption3="Forest canopy in Luquillo featuring palms and Cecropia trees"
 
-    image6="images/slides/tripod_lidar.jpg"
-    caption6="Graduate student Yixin Ma introduce BLK360 tripod lidar during a forestry workshop at the Anort Forest"
+    image4="images/slides/Roof_prototype.jpg"
+    caption4="Roof prototype for throughfall exclusion experiment to study forest drought responses in Luquillo"
+    
+    image5="images/slides/TRACE_ring.jpg"
+    caption5="A ringt structure to support a forest understory warming experiment in Luquillo"
 
-    image7="images/slides/image10.jpg"
-    caption7="View of a tropical rainforest canopy from the meteorological tower at Pasoh, Malaysia. Credit: Yixin Ma"
+    image6="images/slides/backpack_lidar.jpg"
+    caption6="Graduate student Yixin Ma practice backpack lidar scanning"
+
+    image7="images/slides/tripod_lidar.jpg"
+    caption7="Graduate student Yixin Ma introduce BLK360 tripod lidar during a forestry workshop at the Anort Forest"
+
+    image8="images/slides/image10.jpg"
+    caption8="View of a tropical rainforest canopy from the meteorological tower at Pasoh, Malaysia. Credit: Yixin Ma"
 
 %}
 
