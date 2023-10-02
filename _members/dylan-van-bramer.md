@@ -1,3 +1,4 @@
+---
 name: Dylan Van Bramer
 image: /images/dylan-van-bramer.jpg
 description: Machine Learning and Forest Ecology
