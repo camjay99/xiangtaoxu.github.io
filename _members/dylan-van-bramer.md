@@ -1,6 +1,6 @@
 ---
 name: Dylan Van Bramer
-image: /images/dylan-van-bramer.jpg
+image: /images/dylan_van_bramer.jpg
 description: Machine Learning and Forest Ecology
 role: undergrad
 aliases: 
